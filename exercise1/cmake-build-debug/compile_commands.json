@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/bilge/Documents/ceng218/homeworks/hw3/exercise1/cmake-build-debug/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++11 -o CMakeFiles/exercise1.dir/exercise1.cc.o -c /Users/bilge/Documents/ceng218/homeworks/hw3/exercise1/src/exercise1.cc",
+  "file": "/Users/bilge/Documents/ceng218/homeworks/hw3/exercise1/src/exercise1.cc"
+}
+]
